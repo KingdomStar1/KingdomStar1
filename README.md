@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingdomStar1
 - 👀 I’m interested in software development, cybersecurity and data science  
 - 🌱 I’m currently learning programming languages.  
-- 💞️ I’m looking to collaborate on perfecting my skills building new projects  
+- 💞️ I’m looking to collaborate on perfecting my skills and building new projects.  
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
